@@ -1,5 +1,5 @@
 # Temporary Name for the project: Circular Boardgame
-Boardgame design by Dieter Bolliger and use for Unity classes
+Boardgame design by Dieter Bolliger and use for Unity classes for beginners.
 
 Designer, Creator & Student:
 Dieter Bolliger
