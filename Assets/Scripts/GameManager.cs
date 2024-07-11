@@ -43,7 +43,6 @@ public class GameManager : MonoBehaviour
     void Update(){
         if (currentPiece != null) {
             if (currentPiece.isMoving) return;
-
             PieceKeySelection();
             PieceMouseSelection();
             PieceMovement();

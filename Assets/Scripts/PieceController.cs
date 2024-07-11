@@ -38,6 +38,7 @@ public class PieceController : MonoBehaviour
     void Start (){
         GetComponentInChildren<MeshRenderer>().material = teamMaterial;
         outOfGameEvent += (PieceController piece) => {print("Do action of: " + piece.name);};
+        isMoving = false;
     }
 
     public bool GetIsMoving(){
